@@ -1,0 +1,2 @@
+telegram-download-bot==20.7
+yt-dlp==2024.11.11
